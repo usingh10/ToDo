@@ -3,6 +3,9 @@
         <color name="year">#999999</color>
         <color name="title">#222222</color>
     <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryn">#5D8AA8</color>
     <color name="Blue">#303F9F</color>
+    <color name="Bl">#E9D66B</color>
+    <color name="ars">#3B444B</color>
     <color name="colorAccent">#FF4081</color>
 </resources>
